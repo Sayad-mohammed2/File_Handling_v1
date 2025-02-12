@@ -1,0 +1,14 @@
+Buy groceries|Milk, eggs, bread, and fruits|2023-11-05|False
+Finish Python project|Complete the task manager project|2023-11-10|False
+Call mom|Discuss weekend plans|2023-11-06|True
+Pay electricity bill|Due by the end of the month|2023-11-30|False
+Read a book|Finish reading 'Python Crash Course'|2023-12-01|False
+Plan vacation|Research destinations and book tickets|2023-12-15|False
+Exercise|Go for a 30-minute run|2023-11-07|False
+Write blog post|Write about Python file handling|2023-11-12|False
+Attend meeting|Team meeting at 10 AM|2023-11-08|False
+Clean the house|Vacuum and dust all rooms|2023-11-09|False
+check|new p|290202|False
+Buy groceries|Milk, eggs, bread, and fruits|2023-11-05|False
+Finish Python project|Complete the task manager project|2023-11-10|False
+EJKE|LD|DK|False
